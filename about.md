@@ -13,7 +13,7 @@ in Enschede, Netherlands I am doing Creative Technology. This study program is q
 2010.
 For fun I teamed up with a friend and designed a game for Android. I am currently working on a webpage to go with it. That's why 
 I am really interested in the class Emergent Web Technologies, because it covers a lot of features I would like to include
-in our webpage. Feel free to visit the current webpage [mandtgames.com](mandtgames.com)
+in our webpage. Feel free to visit the current webpage [mandtgames.com](http://www.mandtgames.com)
 
 ### Contact me
 
