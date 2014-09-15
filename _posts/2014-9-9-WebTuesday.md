@@ -18,7 +18,9 @@ To give some idea of what kind of design I find professional I will include some
 ### Web Designs I find inspiring:
 
 1.[D3]("http://d3js.org/") - I just love the design of this web page for some reason. It seems very organized and clean, but still stylish to me. And it uses the principle: Less is sometimes more.
+
 2.[Android]("http://developer.android.com/index.html") - Of course had to include this web page, because I wanted to get started on it, but never had the time. Definitely, is on the to-do list.
+
 3.[Unity]("http://unity3d.com/") - Since I also worked with Unity and since our App has been made with Unity, this page I want to
 mention lastly. Games like Monument Valley are games I talked a lot with my friend about while we brainstormed for new ideas on what to produce next and is also on my to-do list.
 
