@@ -9,6 +9,7 @@ I took the course Emergent Web Technologies for a specific reason.
 Since I am an exchange student I do not have to worry that much about which courses I need to take over here, which is actually quite awesome, because it gives me the freedom to choose any course without having to worry about whether the course is mandatory or not. There is not a single course in my minor I have to take. Of course there are restrictions like choosing courses that are on an equivalent level to the courses I had to take in my home institution, but besides that I can choose what interests me the most from the course catalogue.
 The reason why I picked Emergent Web Technologies is on the one hand that I just recently published with a friend of mine my own App and that I want to design a professional webpage to go with it. On the other hand I want to be able to design dynamic 
 and screen optimized webpages for different devices helping me to create mobile webpages.
+
 As you can see I am quite interested in anything that has to do with Apps. This interest grew while studying Creative 
 Technology in my home institution in Enschede, Netherlands.
 Additionally, taking a course that wraps around new emergent technologies is always helpful in this fast globalizing world.
