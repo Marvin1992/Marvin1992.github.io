@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WebTuesday
+title: Emergent Web Technology
 ---
 
 ## The reason why I have chosen this course:
