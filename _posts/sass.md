@@ -5,5 +5,13 @@ title: CSS-preprocessors
 
 ## Advantages and Disadvantages of CSS-preprocessors
 
+<p>One major disadvantage of css-preprocessors is, if many people work together on a big project, some people might not use the pre-processor while others do. Some people might be simply editing it. Since there are also two files (scss/css) stuff could get overwritten easily, which makes group work less efficient.</p>
+
+<p>What I like personally is that those preprocessors offer the possibility to make single line comments ( // ). It might be just a small thing for some people but since I use a lot of comments in order to keep my code structured, I really miss the double slash comments in the vanilla css. Additionally while preprocessing the comments are removed which shortens the file length.
+</p>
+
+<p>Just like in Javascript or almost every other programming language variables can be used within the preprocessors. This is extremely helpful for using common styling properties like padding for instance. As these variables are also removed from the code while processing the css file, I find the preprocessor very useful in that sense. Another great advantage that the preprocessed file offers is that it is easier to maintainable. Lets say your employer wants the overall color of your page to be red instead of blue, if you have been writing within .scss you just need to change the color variables declared earlier in order to change the color for the entire page. This saves you much more time than going to every single line of your css code and changing the color individual - especially if you have a long css file. Also for testing different looks this can be a great tool. You could just play around with different color sets and see what looks best to you, if you declared your color variables within your scss.</p>
+
+#### For reference here is an example of a preprocessed file:
 
 <p><a href="http://codepen.io/Marvin1992/pen/Izyif">Example of SASS (.scss)</a></p>
