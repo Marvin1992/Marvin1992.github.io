@@ -14,4 +14,5 @@ title: CSS-preprocessors
 
 #### For reference here is an example of a preprocessed file:
 
-<p><a href="http://codepen.io/Marvin1992/pen/Izyif">Example of SASS (.scss)</a></p>
+<p data-height="567" data-theme-id="0" data-slug-hash="Izyif" data-default-tab="result" data-user="Marvin1992" class='codepen'>See the Pen <a href='http://codepen.io/Marvin1992/pen/Izyif/'>Izyif</a> by Marvin (<a href='http://codepen.io/Marvin1992'>@Marvin1992</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<script async src="//codepen.io/assets/embed/ei.js"></script>
