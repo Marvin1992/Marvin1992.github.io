@@ -8,7 +8,7 @@ title: Custom Elements
 <p>
 With custom elements, a method to define one's own elements, own behavior and properties, 
 the way web pages and specifically web application are designed will completely be renewed. 
-With hiding techniques like Shadow DOM to ensure that one's internal code is encapsulated within a template (<template>), 
+With hiding techniques like Shadow DOM to ensure that one's internal code is encapsulated within a template {% highlight html %} <template>...</template> {% endhighlight %}, 
 one could easily reuse an application function for instance on multiple web pages of his own without having to worry that somebody copies it.
 </p>
 <p>
