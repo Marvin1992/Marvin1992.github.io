@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Issues with Custom Elements
+title: Custom Elements
 ---
 
 ## Issues with Custom Elements
