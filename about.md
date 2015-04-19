@@ -8,12 +8,10 @@ My name is Marvin Baumgart and I am a programming/design student.
 
 ### More Information
 
-I am currently doing my minor in Mobile Media Programming in Chicago, Illinois. In my home institution, which is
-in Enschede, Netherlands I am doing Creative Technology. This study program is quite new and has been established in
-2010.
-For fun I teamed up with a friend and designed a game for Android. I am currently working on a webpage to go with it. That's why 
-I am really interested in the class Emergent Web Technologies, because it covers a lot of features I would like to include
-in our webpage. Feel free to visit the current webpage [mandtgames.com](http://www.mandtgames.com)
+I am currently doing my minor in Mobile Media Programming in Chicago, Illinois. I am also finishing up my Bachelor in Creative Technology in the Netherlands beginning of 2016.
+I am interested in making Apps and BigData. I created an App called Herbert The Pelican with one of my friends a while ago in C#. 
+I am focusing on JavaScript applications right now, because I think this is where the future is heading. I am targeting specifically hybrid Apps.
+If you are interested in what I worked on before feel free to visit my portfolio webpage [mandtgames.com](http://www.mandtgames.com/portfolio)
 
 ### Contact me
 
